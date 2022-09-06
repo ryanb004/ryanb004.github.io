@@ -15,10 +15,14 @@ a {
 }
 
 body {
-	font-size: 18px
+	font-size: 18px;
 }
 
 table.center {
 	text-align: center;
-	line-height: 2
+	line-height: 2;
+}
+
+td.deez {
+	min-width: 75px;
 }
