@@ -6,8 +6,13 @@ h1 {
 h2 {
 	font-family: Helvetica;
 	font-size: 25px;
+}
+
+.current {
+	background-color: lightblue;
 	
 }
+
 
 a {
 	color: black;
@@ -17,6 +22,14 @@ a {
 body {
 	font-size: 18px;
 }
+
+.header {
+
+	border-left: 1px solid #AAAAAA;
+	border-right: 1px solid #AAAAAA;
+}
+
+
 
 table.center {
 	text-align: center;
