@@ -20,6 +20,8 @@ a {
 }
 
 body {
+	margin: 0;
+	width: auto;
 	font-size: 18px;
 }
 
