@@ -48,4 +48,7 @@ table.head {
 	border-spacing: 0
 }
 
-
+.calendar {
+	display: block;
+	margin:auto;
+}
