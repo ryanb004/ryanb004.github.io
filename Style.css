@@ -39,3 +39,8 @@ table.center {
 td.deez {
 	min-width: 75px;
 }
+
+table.head {
+	width: 100%;
+	border-spacing: 0
+}
